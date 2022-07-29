@@ -2,12 +2,21 @@
 
 ## Describption
 
+This proj mainly use flask to implement the Blog Website
+
+## Related technology
+
+* Front end: html, css
+* Back end: Flask, REST API
+* Database
+* Security: Token Authentication
 
 ## Design
 
 
-## Detail introduction
- PPT 
+## Detail Introduction
+
+[Blog_Website_Ling_Chen](https://docs.google.com/presentation/d/1Lee_zVk9rq1S_nsPHbsHAm5eYuFxA-HceGm09rBvWMM/edit#slide=id.g13fd8d65e72_0_69)
 
 ## How to run the project
 
@@ -94,7 +103,18 @@ update users set role_id = 3 where id = 1;
 
 Now, you can post your blog.
 
+## The interface display
 
-## Related technology
+* Register and Login
+
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/93315926/181683344-c0c8cfd1-3bb3-4cd5-b7e1-c1741ce655fd.png">
+
+* User profile Edit
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/93315926/181683170-374f3ddc-6c29-4f38-a33c-7c654f793380.png">
+
+* Post and Edit Blog
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/93315926/181683095-89fba136-2a2e-480e-b171-ff2b2d987f20.png">
+
+
 
 
