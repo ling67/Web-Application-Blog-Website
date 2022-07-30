@@ -126,7 +126,7 @@ Now, you can post your blog.
 
 ## Detail Introduction
 
-[Blog_Website_Ling_Chen](https://docs.google.com/presentation/d/1Lee_zVk9rq1S_nsPHbsHAm5eYuFxA-HceGm09rBvWMM/edit#slide=id.g13fd8d65e72_0_69)
+[Blog_Website_Ling_Chen](https://docs.google.com/presentation/d/1Lee_zVk9rq1S_nsPHbsHAm5eYuFxA-HceGm09rBvWMM/edit#slide=id.g25f6af9dd6_0_0)
 
 
 
