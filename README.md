@@ -91,7 +91,7 @@ Then re-run app
 $ flask run
 ```
 
-* Method 2: set your email and application password manually when you run the project.
+* Method 2: set your email and application password manually when you run the project.（how to set application password see Appendix ）
 
 ```
 $ export MAIL_USERNAME=********
