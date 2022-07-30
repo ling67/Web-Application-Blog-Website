@@ -124,6 +124,14 @@ Now, you can post your blog.
 * Post and Edit Blog
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/93315926/181683095-89fba136-2a2e-480e-b171-ff2b2d987f20.png">
 
+## Appendix
+
+How to set a App Passwords: https://support.google.com/accounts/answer/185833.
+
+* step1: Setting a App Passwords.(eg. If you use visual studio code, setting application:visual studio code, password: google automatic generate)
+* step2: Use the gmail account and App passwords in your code.
+* step3: Run the code in visual studio code.
+
 ## Detail Introduction
 
 [Blog_Website_Ling_Chen](https://docs.google.com/presentation/d/1Lee_zVk9rq1S_nsPHbsHAm5eYuFxA-HceGm09rBvWMM/edit#slide=id.g25f6af9dd6_0_0)
