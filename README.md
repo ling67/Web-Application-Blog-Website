@@ -112,7 +112,7 @@ update users set role_id = 3 where id = 1;
 
 Now, you can post your blog.
 
-## The interface display
+## User Interface Presentation
 
 * Register and Login
 
