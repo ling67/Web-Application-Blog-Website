@@ -2,7 +2,8 @@
 
 ## Describption
 
-This proj mainly use flask to implement the Blog Website
+* This project mainly use flask to implement the Blog Website. A blog is a type of website that is updated regularly with new content. Most blogs contain short, informal articles called blog posts. In our project support lots of features: User's register and login, post blog, edit blog, comment the blog, follow other users.
+* In this Blog Website we use Flask framework to implement. Flask is a micro web framework written in Python, it is Easier to use for simple cases.
 
 ## Related technology
 
@@ -13,10 +14,18 @@ This proj mainly use flask to implement the Blog Website
 
 ## Design
 
+### modules design
 
-## Detail Introduction
+* User Authentication
+* User Role
+* User Profiles
+* Blog Posts
+* Followers
+* User Comments
 
-[Blog_Website_Ling_Chen](https://docs.google.com/presentation/d/1Lee_zVk9rq1S_nsPHbsHAm5eYuFxA-HceGm09rBvWMM/edit#slide=id.g13fd8d65e72_0_69)
+### Database design
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/93315926/181863066-aabea854-2dd4-4408-8951-71e808da6089.png">
 
 ## How to run the project
 
@@ -115,6 +124,9 @@ Now, you can post your blog.
 * Post and Edit Blog
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/93315926/181683095-89fba136-2a2e-480e-b171-ff2b2d987f20.png">
 
+## Detail Introduction
+
+[Blog_Website_Ling_Chen](https://docs.google.com/presentation/d/1Lee_zVk9rq1S_nsPHbsHAm5eYuFxA-HceGm09rBvWMM/edit#slide=id.g13fd8d65e72_0_69)
 
 
 
