@@ -96,6 +96,7 @@ $ flask run
 ```
 $ export MAIL_USERNAME=********
 $ export MAIL_PASSWORD=********
+$ export FLASK_ADMIN=*********
 $ flask run
 ```
 Then
